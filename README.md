@@ -187,7 +187,7 @@ print(false and "hello world")
 
 В этом случае у нас, если первое условие = true, то будет выводится то, что стоит после and. Вставьте этот код к себе и потестируйте.
 
-![[Pasted image 20260210123757.png]]
+![IfState](/Photo/IfState.png)
 
 Также занесите в переменную
 ``` lua
@@ -418,13 +418,13 @@ local NPC = {
 И на клиенте выведи в оутпут эти данные.
 
 3. Создай ScreenGui в StarterGui и также внутри создай TextLabel и сделай его прозрачным
-   ![[Pasted image 20260217131511.png]].
+   ![ScreenGui](/Photo/ScreenGui.png).
 
    Когда заходит любой игрок на сервер, с помошью FireAllClients ВСЕМ игрокам отправляется сообщение, что Игрок зашёл на сервер и в TextLabel меняется текст:
 	`"Player.Name", зашёл на сервер!`
 
    Чтобы это протестировать, нужно запустить игру в режиме Server&Clients и выбрать кол-во игроков 2 или больше(подобное мы делали в видео).
-   ![[Pasted image 20260217131656.png]]
+   ![ServerAndClientTest](/Photo/ServerAndClientTest.png)
 
 ## Vector3
 
