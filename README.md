@@ -12,7 +12,7 @@
 
 Официальная документация по Роблокс Студио:
 https://create.roblox.com/docs
-![[Pasted image 20260224031806.png]]
+![Documentation](/Photo/Documentation.png)
 
 Нажимаешь на эту кнопку и ищешь то, что нужно.
 
